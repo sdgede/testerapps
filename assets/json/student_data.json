@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "pesan": "Login berhasil",
+    "token": "abc123xyz",
+    "data": [
+      {
+        "nisn": "1234567890",
+        "nis": "9876543210",
+        "nama": "Putu Alit Dwi Payana",
+        "kelas": "X-A",
+        "password": "123"
+      },
+      {
+        "nisn": "2345678901",
+        "nis": "8765432109",
+        "nama": "Komang Sumayasa",
+        "kelas": "XI-B",
+        "password": "123"
+      }
+    ]
+  }
+  
